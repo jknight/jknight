@@ -6,5 +6,5 @@ I spend most of my time over at [Gitlab.com](https://gitlab.com/jeffrey.knight) 
 
 I'm also a Masters Candidate at the University of Pennsylvania in the [MCIT](https://gradadm.seas.upenn.edu/masters/computer-and-information-technology-mcit-online/) program.
 
-You can find me from my contact info on github or on [Bret's Vital DevOps channel](https://devops.fan/) on Discord.
+You can find me on [linkedIn](https://www.linkedin.com/in/jeffreyknight) or on [Bret's Vital DevOps channel](https://devops.fan/) on Discord.
 
