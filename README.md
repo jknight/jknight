@@ -8,3 +8,13 @@ I'm also a Masters Candidate at the University of Pennsylvania in the [MCIT](htt
 
 You can find me on [linkedIn](https://www.linkedin.com/in/jeffreyknight) or on [Bret's Vital DevOps channel](https://devops.fan/) on Discord.
 
+
+<img height=50 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"/> tip of the day: shell in vim
+
+```
+:vsp                        // vertically split window
+:term / then 'i'            // open term  inside vim → insert mode  
+esc                         // back to command mode
+ctrl+w + left/right arrows  // navigate between panes
+```
+
