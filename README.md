@@ -12,9 +12,9 @@ You can find me on [linkedIn](https://www.linkedin.com/in/jeffreyknight) or on [
 
 [IBM Plex](https://www.ibm.com/plex/) is an amazing font, check it out.
 
-<a><img height=50 src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png">&nbsp;Alacritty</a>: The Terminal replacement you didn't know you needed. You'll never go back to Terminal on MacOS or Linux after trying it.
+<a><img height=50 src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png">&nbsp;Alacritty</a>: The Terminal replacement you didn't know you needed. 
 
-<a href="https://espanso.org/"><img height=50 src="https://espanso.org/assets/images/extended-logo-dark-e9f668fe61e91273546162da41e20fdd.svg"/>Espanso</a> a text expander written in Rust. Never waste time typing again.
+<a href="https://espanso.org/"><img height=50 src="https://espanso.org/assets/images/extended-logo-dark-e9f668fe61e91273546162da41e20fdd.svg"/>Espanso</a> a text expander written in Rust. 
 
 <a href="https://manytricks.com/witch/"><img height=50 src="https://manytricks.com/witch/images/witchicon256.png">&nbsp; Witch</a> Alt+Tab for MacOS
                                                                                                                 
