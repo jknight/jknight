@@ -27,7 +27,7 @@ ctrl+w + left/right arrows  // navigate between panes
 WORDLE and GREP the perfect match :)
 
 ```
-> grep "^[^sdr][^prr]ead$" /usr/share/dict/words
+> grep "^[^sdr][^pr]ead$" /usr/share/dict/words
 adead
 ahead
 clead
