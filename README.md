@@ -23,3 +23,14 @@ ctrl+w + left/right arrows  // navigate between panes
 ```
 > cargo test -- --list
 ```
+
+WORDLE and GREP the perfect match :)
+
+```
+> grep "^[^sdr][^prr]ead$" /usr/share/dict/words
+adead
+ahead
+clead
+knead
+plead
+```
