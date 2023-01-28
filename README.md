@@ -27,19 +27,3 @@ esc                         // back to command mode
 ctrl+w + left/right arrows  // navigate between panes
 ```
 
-<img height=50 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" /> tip of the day: list all unit tests
-
-```
-> cargo test -- --list
-```
-
-WORDLE and GREP the perfect match :)
-
-```
-> grep "^[^sdr][^pr]ead$" /usr/share/dict/words
-adead
-ahead
-clead
-knead
-plead
-```
